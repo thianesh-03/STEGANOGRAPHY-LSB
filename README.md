@@ -1,1 +1,3 @@
 # STEGANOGRAPHY-LSB
+I developed an Android application for image steganography, focusing on secure data transmission. Leveraged Java and Android SDK to design a user-friendly interface that allowed users to hide sensitive information within images using advanced steganographic techniques. Implemented encryption algorithms to enhance data security before embedding, ensuring robust protection against unauthorized access. Collaborated with a team to optimize app performance and conducted thorough testing to validate its functionality and security measures. This project highlighted my proficiency in mobile app development, cryptography, and teamwork.
+Change the image image name and check the image's type before uploading the image.
